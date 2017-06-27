@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
    
    # Application title
-   titlePanel("Oregon State Congressional District"),
+   titlePanel("Oregon State Assembly Legislative District Lookup"),
    
    # Sidebar with text input
    sidebarLayout(
